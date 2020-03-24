@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCeue6k4gHosWMc4smy6cRZcAurL+/JnDSgjQKnaTJ8d9gWXfKzz1s7DwZtpUMg28chhDeTZ3UYrIPszOv3eTw==",
+  "success": true,
+  "projectFilePath": "C:\\git\\CreatingACoder\\CreatingACoder\\CreatingACoder.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amann\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
